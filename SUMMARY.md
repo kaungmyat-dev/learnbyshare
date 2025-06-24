@@ -5,3 +5,4 @@
 * [Introduction](introduction.md)
 * [Write DAX formulas](write-dax-formulas.md)
 * [DAX data types](dax-data-types.md)
+* [Work with DAX functions](work-with-dax-functions.md)
