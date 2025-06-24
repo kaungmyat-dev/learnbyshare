@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Power BI DAX](README.md)
+* [Power BI DAX](Power BI DAX.md)
