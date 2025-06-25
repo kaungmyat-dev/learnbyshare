@@ -7,3 +7,4 @@
 * [DAX data types](dax-data-types.md)
 * [Work with DAX functions](work-with-dax-functions.md)
 * [DAX Operators](dax-operators.md)
+* [Use DAX variables](use-dax-variables.md)
