@@ -8,9 +8,11 @@ DAX Operators ဆိုတာ ဖော်မြူလာတွေထဲမှ�
 
 DAX မှာ အဓိက  Operators ၄ မျိုးရှိပါတယ်။
 
-* **Arithmetic Operator**  &#x20;: +, - , \*, / , ^(power)
+* **Arithmetic Operator**
+  &#x20;: +, - , \*, / , ^(power)
 * **Comparison Operators** : =, >, >=, <, <=, <>
-* **Text Concatenation Operator** : Text Concatenation Operator ဟာ စာသားအပိုင်းအစ နှစ်ခု သို့မဟုတ် နှစ်ခုထက်ပိုတာတွေကို ပေါင်းစပ်ပြီး စာသားတစ်ခုတည်းအဖြစ် ဖန်တီးရာမှာ အသုံးပြုပါတယ်။ '&' ကိုအသုံးပြုပါတယ်။  \
+* **Text Concatenation Operator** : Text Concatenation Operator ဟာ စာသားအပိုင်းအစ နှစ်ခု သို့မဟုတ် နှစ်ခုထက်ပိုတာတွေကို ပေါင်းစပ်ပြီး စာသားတစ်ခုတည်းအဖြစ် ဖန်တီးရာမှာ အသုံးပြုပါတယ်။ '&' ကိုအသုံးပြုပါတယ်။
+  \
   &#xNAN;_`[First Name] & " " & [Last Name]`_
 * &#x20;**Logical Operators** : `&& (AND)`, `|| (OR)`
 
@@ -38,7 +40,8 @@ Implicit conversion ဆိုတာ data type တွေကို ပြောင
 * `[Sales Amount] + [Tax Rate]` လို့ ရေးတဲ့အခါ `[Sales Amount]` က `Currency` ဖြစ်ပြီး `[Tax Rate]` က `Decimal Number` ဖြစ်နိုင်ပါတယ်။ `DAX` က ဒီနှစ်ခုကို ပေါင်းဖို့အတွက် သူတို့ရဲ့ `Data Type` တွေကို အလိုအလျောက် ချိန်ညှိပေးပါလိမ့်မယ်။
 * `[Order Date] = "2023-01-01"` လို့ ရေးတဲ့အခါ `[Order Date]` က `Date/Time` ဖြစ်ပြီး `"2023-01-01"` က `Text` ဖြစ်ပေမယ့် `DAX` က `Text` ကို `Date` အဖြစ် အလိုအလျောက် ပြောင်းလဲပြီး နှိုင်းယှဉ်ပေးပါလိမ့်မယ်။
 
-BLANK Data Type ကို DAX က ကိုင်တွယ်ပုံက Operator အမျိုးအစားပေါ် မူတည်ပြီး ကွာခြားပါတယ်။\
+BLANK Data Type ကို DAX က ကိုင်တွယ်ပုံက Operator အမျိုးအစားပေါ် မူတည်ပြီး ကွာခြားပါတယ်။
+\
 Arithmetic Operators  နဲ့ တွက်ချက်တဲ့အခါ BLANK ကို `0` အဖြစ် သတ်မှတ်ပြီး တွက်ချက်ပါတယ်။
 
 ```dax
