@@ -8,18 +8,23 @@ Structure of DAX Formulas
 
 DAX က excel formulas တွေနဲ့ ဆင်တူပါတယ်။ '=' နဲ့စပြီး functions/operator တွေနဲ့ argument (_`function အတွက် လိုအပ်တဲ့ အချက်အလက်`_) တွေကိုပေါင်းစပ်ရေးသားရပါတယ်။
 
-`e.g Total Sales = SUM('Sales'[Sales Amount])`
+
+
+`e.g Total Sales = SUM('Sales'[Sales Amount])`
 
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
 DAX Formulas တွေရေးသားတဲ့အခါမှာ သိထားသင့်တဲ့ အချက်တွေကတော့
 
 * **Functions** : SUM, AVERAGE, COUNT, IF, CALCULATE, etc.. _<mark style="background-color:yellow;">`Power BI မှာ function name ကို အစရိုက်လိုက်တာနဲ့ autocomplete က functions တွေကို အကြံပြုပေးပါတယ်။`</mark>_
-* **Column References** : column တစ်ခုကို ရည်ညွန်းချင်ရင် Square Brakets `'[ ]'` ထဲမှာရေးရပါတယ်။  \
+* **Column References** : column တစ်ခုကို ရည်ညွန်းချင်ရင် Square Brakets `'[ ]'` ထဲမှာရေးရပါတယ်။
+  \
   &#xNAN;_<mark style="background-color:yellow;">`e.g [Sales Amount], [Order Quantity]`</mark>_
-* **Table References** : Column name က Data model ထဲမှာ တူတာတွေရှိနေရင်တော့ ဘယ် table ထဲက column ဆိုတာကို ရည်ညွှန်းဖို့အတွက် table name ကို Single Quote `'  '` ရေးရပါတယ်။  \
+* **Table References** : Column name က Data model ထဲမှာ တူတာတွေရှိနေရင်တော့ ဘယ် table ထဲက column ဆိုတာကို ရည်ညွှန်းဖို့အတွက် table name ကို Single Quote `'  '` ရေးရပါတယ်။
+  \
   &#xNAN;_<mark style="background-color:yellow;">`e.g 'Sales'[Sales Amount], 'Product'[Product Name]`</mark>_
-* **Literals** (တိုက်ရိုက်တန်ဖိုးများ) : text values တွေကို double quotes `" "` ထဲမှာထည့်ရေးရပါတယ်။  \
+* **Literals** (တိုက်ရိုက်တန်ဖိုးများ) : text values တွေကို double quotes `" "` ထဲမှာထည့်ရေးရပါတယ်။
+  \
   &#xNAN;_<mark style="background-color:yellow;">`e.g "Hight Value", "Unknown"`</mark>_
 * **Numerical values** တွေကိုတော့ တိုက်ရိုက်ရေးသားနိုင်ပါတယ်။ _`e.g 100, 0.05`_
 
@@ -57,7 +62,9 @@ DAX မှာ Function အမျိုးအစားပေါင်းမျာ
 
 * **Aggregation Functions**: ဒေတာတွေကို စုပေါင်းတွက်ချက်ပေးတဲ့ Function တွေ (ဥပမာ: SUM, AVERAGE, MIN, MAX, COUNT)။
 * **Logical Functions**: အခြေအနေတွေကို စစ်ဆေးပြီး True/False တန်ဖိုးတွေ ပြန်ပေးတဲ့ Function တွေ (ဥပမာ: IF, AND, OR)။
-* **Text Functions**: စာသားတွေကို စီမံခန့်ခွဲတဲ့ Function တွေ (ဥပမာ: CONCATENATE, LEFT, RIGHT)။  \
+* **Text Functions**: စာသားတွေကို စီမံခန့်ခွဲတဲ့ Function တွေ (ဥပမာ: CONCATENATE, LEFT, RIGHT)။
+  \
   Date and Time Functions: ရက်စွဲနဲ့ အချိန်တွေကို ကိုင်တွယ်တဲ့ Function တွေ (ဥပမာ: TODAY, YEAR, MONTH)။
-* **Table Manipulation Functions**: Table တွေကို စီမံခန့်ခွဲတဲ့ Function တွေ (ဥပမာ: FILTER, ALL)။  \
+* **Table Manipulation Functions**: Table တွေကို စီမံခန့်ခွဲတဲ့ Function တွေ (ဥပမာ: FILTER, ALL)။
+  \
   Relationship Functions: Table တွေကြား ဆက်နွယ်မှုကနေ ဒေတာတွေကို ရယူတဲ့ Function တွေ (ဥပမာ: RELATED)။
