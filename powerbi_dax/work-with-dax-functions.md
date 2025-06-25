@@ -36,7 +36,9 @@ DIVIDE(<numerator>, <denominator>[, <alternate_result>])
 
 > _<mark style="background-color:yellow;">DIVIDE Function ရဲ့ အကြီးမားဆုံး အားသာချက်က 0 (သုည) နဲ့ စားတဲ့အခါ ဖြစ်ပေါ်လာတဲ့ ပြဿနာတွေကို အလိုအလျောက် ကိုင်တွယ်ပေးခြင်း ဖြစ်ပါတယ်။</mark>_
 >
-> _<mark style="background-color:yellow;">DIVIDE Function ကို denominator က 0 ဒါမှမဟုတ် BLANK ဖြစ်နိုင်တဲ့ Expression တစ်ခု ဖြစ်နေရင် အမြဲတမ်း အသုံးပြုသင့်ပါတယ်။</mark>_> \
-> _<mark style="background-color:yellow;">denominator က အမြဲတမ်း တိကျတဲ့ တန်ဖိုး (constant value) ဖြစ်နေရင်တော့ / (divide operator) ကိုပဲ သုံးနိုင်ပါတယ်</mark>_> \
+> _<mark style="background-color:yellow;">DIVIDE Function ကို denominator က 0 ဒါမှမဟုတ် BLANK ဖြစ်နိုင်တဲ့ Expression တစ်ခု ဖြစ်နေရင် အမြဲတမ်း အသုံးပြုသင့်ပါတယ်။</mark>_
+> \
+> _<mark style="background-color:yellow;">denominator က အမြဲတမ်း တိကျတဲ့ တန်ဖိုး (constant value) ဖြစ်နေရင်တော့ / (divide operator) ကိုပဲ သုံးနိုင်ပါတယ်</mark>_
+> \
 > _<mark style="background-color:yellow;">။ ဒီလိုအခြေအနေမျိုးမှာ 0 ဖြစ်နိုင်ခြေမရှိလို့ DIVIDE Function ရဲ့ စစ်ဆေးမှု လုပ်ငန်းစဉ်ကို ရှောင်ရှားနိုင်ပြီး Performance ပိုကောင်းစေပါတယ်။</mark>_
 
