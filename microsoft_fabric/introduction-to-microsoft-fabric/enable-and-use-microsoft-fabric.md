@@ -14,7 +14,7 @@ Microsoft Fabric ကိုစပြီး မသုံးခင်မှာ က�
 Admin portal > Tenant settings
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Creating Fabric Workspaces
 
@@ -35,7 +35,7 @@ Workspace တစ်ခု ဖန်တီးပြီးသွားပြီဆ
 * **OneLake**: create လုပ်လိုက်တဲ့ Lakehouse ထဲက files and tables အားလုံးက Onelake ထဲမှာ သိမ်းဆည်းထားတာဖြစ်ပါတယ်။
 * **Item importing** : Lakehouse ဖန်တီးပြီးတာနဲ့  Data Factory pipelines တွေ၊ Spark notebooks တွေ ဒါမှမဟုတ် အခြား Fabric tool တွေကနေတဆင့် data တွေကို Lakehouse ထဲကို ထည့်သွင်းနိုင်ပါတယ်။
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Microsoft Fabric ရဲ့ Analytics Item များကို အသုံးပြုခြင်း
 

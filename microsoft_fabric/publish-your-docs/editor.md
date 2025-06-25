@@ -17,7 +17,7 @@ Copy Data Activity ဟာ data တွေကို source ကနေ destination �
 
 ကူးယူတဲ့အခါမှာ data တွေကို ပြောင်းလဲခြင်း (transformations) လုပ်ဖို့လိုအပ်ရင်လဲ pipeline ထဲမှာ လုပ်ပြီးတော့ ကူးယူနိုင်တယ်။
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Supported Data Store Types
 
@@ -34,7 +34,7 @@ Copy Data activity မှာ အဓိက အစိတ်အပိုင်း�
 * **Source**: ဒေတာတွေ ကူးယူမယ့် data source ကို သတ်မှတ်ပါတယ်။ _ဥပမာ- SQL database ထဲက Table တစ်ခု၊ ဒါမှမဟုတ် Storage account ထဲက File တစ်ခု ဖြစ်နိုင်ပါတယ်။_
 * **Sink**: ကူးယူထားတဲ့ ဒေတာတွေကို သိမ်းဆည်းမယ့် destination ကို သတ်မှတ်ပါတယ်။ _ဥပမာ- Data Lake ထဲက Folder တစ်ခု၊ ဒါမှမဟုတ် Synapse Analytics ထဲက Table တစ်ခု ဖြစ်နိုင်ပါတယ်။_
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Data Integration ၏ အခြေခံ
 

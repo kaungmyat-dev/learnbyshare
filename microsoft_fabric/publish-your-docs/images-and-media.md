@@ -17,6 +17,6 @@ Pipeline တွေကို တည်ဆောက်ပြီးတာနဲ့ 
 * Event-based Trigger :  &#x20;သတ်မှတ်ထားတဲ့ ဖြစ်ရပ်တစ်ခု (ဥပမာ- file အသစ်တစ်ခု storage ထဲ ရောက်လာတာ) ဖြစ်ပေါ်လာတဲ့အခါ Pipeline ကို အလိုအလျောက် run စေရန် သတ်မှတ်နိုင်ပါတယ်။
 * Tumbler Window Trigger:  &#x20;ဒေတာများကို ပုံမှန် အချိန်အပိုင်းအခြား (ဥပမာ- နေ့တိုင်း၏ နာရီတိုင်း) အလိုက် စီမံဆောင်ရွက်ရန်အတွက် အသုံးပြုပါတယ်။
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
