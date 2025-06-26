@@ -40,9 +40,10 @@ Date Table ရဲ့ လိုအပ်ချက်များ:
 * အဲဒီ Date Column မှာ တစ်နှစ်ပြည့် ရက်စွဲများ (full years of data) ပါဝင်သင့်ပါတယ်။ _ဆိုလိုတာက ဇန်နဝါရီ ၁ ရက်ကနေ ဒီဇင်ဘာ ၃၁ ရက်အထိ အပြည့်အစုံ ပါဝင်ရပါမယ်။ `(ဥပမာ- 2022-01-01 ကနေ 2022-12-31 အထိ)`_
 * Date Table ကို Power BI Desktop မှာ "`Mark as Date Table`" အဖြစ် သတ်မှတ်ပေးရပါမယ်။ _ဒါမှ Power BI က အဲဒီ Table ကို Time Intelligence Operations တွေအတွက် သုံးဖို့ သိမှာပါ။_
 
-#### Date Table မရှိရင် ဘာလုပ်မလဲ။
-
-Source Data မှာ Date Table မပါလာရင် DAX ရဲ့ CALENDAR ဒါမှမဟုတ် CALENDARAUTO Function တွေကို အသုံးပြုပြီး Calculated Table တစ်ခုအနေနဲ့ Date Table ကို ဖန်တီးနိုင်ပါတယ်။ _`ဥပမာ: Date Table = CALENDARAUTO()`_
+> Date Table မရှိရင် ဘာလုပ်မလဲ။\
+>
+>
+> Source Data မှာ Date Table မပါလာရင် DAX ရဲ့ CALENDAR ဒါမှမဟုတ် CALENDARAUTO Function တွေကို အသုံးပြုပြီး Calculated Table တစ်ခုအနေနဲ့ Date Table ကို ဖန်တီးနိုင်ပါတယ်။ _`ဥပမာ: Date Table = CALENDARAUTO()`_
 
 #### &#x20;Time Intelligence Functions အချို့ ဥပမာများ :
 
