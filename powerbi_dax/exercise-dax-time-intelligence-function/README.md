@@ -27,7 +27,7 @@ Business Report တွေမှာ business ရဲ့ performance, progress တ�
 
 ဒီလိုမေးခွန်းတွေကို အဖြေရှာဖို့အတွက် DAX Time Intelligence Functions တွေက အကောင်းဆုံး tools တွေဖြစ်ပါတယ်။
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Time Intelligence Functions တွေအလုပ်လုပ်ဖို့ ဘာလိုအပ်လဲ။
 

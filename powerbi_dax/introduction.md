@@ -56,7 +56,7 @@ Calculated Columns ရဲ့ အလုပ်လုပ်ပုံက:
 ဥပမာ- [Total Price] = [Quantity] * [Unit Price]
 ```
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Measures" %}
@@ -76,7 +76,7 @@ Measures ရဲ့ အလုပ်လုပ်ပုံက
 ဥပမာ- Total Sales = SUM('Sales'[Sales Amount])
 ```
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -8,4 +8,5 @@
 * [Work with DAX functions](work-with-dax-functions.md)
 * [DAX Operators](dax-operators.md)
 * [Use DAX variables](use-dax-variables.md)
-* [Exercise - DAX time intelligence function](exercise-dax-time-intelligence-function.md)
+* [Exercise - DAX time intelligence function](exercise-dax-time-intelligence-function/README.md)
+  * [Use DAX time intelligence functions](exercise-dax-time-intelligence-function/use-dax-time-intelligence-functions.md)
