@@ -1,6 +1,8 @@
 # Table of contents
 
 * [README](README.md)
+* [Configure a semantic model](configure-a-semantic-model/README.md)
+  * [Configure Relationships](configure-a-semantic-model/configure-relationships.md)
 * [Power BI DAX](power-bi-dax.md)
 * [Introduction](introduction.md)
 * [Write DAX formulas](write-dax-formulas.md)
